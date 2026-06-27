@@ -1,0 +1,24 @@
+[project]
+name = "claims-denial-faq-chatbot"
+version = "1.0.0"
+description = "RAG-powered Claims Denial FAQ Chatbot with LangChain, Claude, Snowflake, and Pinecone"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { text = "MIT" }
+
+[tool.ruff]
+target-version = "py311"
+line-length = 100
+
+[tool.ruff.lint]
+select = ["E", "F", "I", "N", "W", "UP", "B", "SIM"]
+
+[tool.pytest.ini_options]
+asyncio_mode = "auto"
+testpaths = ["tests"]
+pythonpath = ["src"]
+
+[tool.mypy]
+python_version = "3.11"
+strict = true
+ignore_missing_imports = true

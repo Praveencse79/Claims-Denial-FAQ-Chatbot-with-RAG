@@ -1,0 +1,4528 @@
+{
+  "metadata": {
+    "total_scenarios": 210,
+    "version": "1.0.0",
+    "description": "Claims Denial FAQ Knowledge Base"
+  },
+  "scenarios": [
+    {
+      "scenario_id": "SCN-0001",
+      "denial_code": "CO-4",
+      "denial_category": "coding",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "high",
+      "average_resolution_days": 4,
+      "success_rate_percent": 68.7
+    },
+    {
+      "scenario_id": "SCN-0002",
+      "denial_code": "CO-4",
+      "denial_category": "coding",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "low",
+      "average_resolution_days": 14,
+      "success_rate_percent": 89.6
+    },
+    {
+      "scenario_id": "SCN-0003",
+      "denial_code": "CO-4",
+      "denial_category": "coding",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 30,
+      "success_rate_percent": 84.9
+    },
+    {
+      "scenario_id": "SCN-0004",
+      "denial_code": "CO-4",
+      "denial_category": "coding",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "low",
+      "average_resolution_days": 20,
+      "success_rate_percent": 76.7
+    },
+    {
+      "scenario_id": "SCN-0005",
+      "denial_code": "CO-4",
+      "denial_category": "coding",
+      "payer_name": "Anthem",
+      "denial_description": "Anthem denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "low",
+      "average_resolution_days": 13,
+      "success_rate_percent": 69.5
+    },
+    {
+      "scenario_id": "SCN-0006",
+      "denial_code": "CO-4",
+      "denial_category": "coding",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "high",
+      "average_resolution_days": 14,
+      "success_rate_percent": 83.6
+    },
+    {
+      "scenario_id": "SCN-0007",
+      "denial_code": "CO-4",
+      "denial_category": "coding",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 7,
+      "success_rate_percent": 70.8
+    },
+    {
+      "scenario_id": "SCN-0008",
+      "denial_code": "CO-4",
+      "denial_category": "coding",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "low",
+      "average_resolution_days": 6,
+      "success_rate_percent": 81.5
+    },
+    {
+      "scenario_id": "SCN-0009",
+      "denial_code": "CO-16",
+      "denial_category": "coding",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 26,
+      "success_rate_percent": 78.8
+    },
+    {
+      "scenario_id": "SCN-0010",
+      "denial_code": "CO-16",
+      "denial_category": "coding",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 44,
+      "success_rate_percent": 80.4
+    },
+    {
+      "scenario_id": "SCN-0011",
+      "denial_code": "CO-16",
+      "denial_category": "coding",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "high",
+      "average_resolution_days": 27,
+      "success_rate_percent": 81.1
+    },
+    {
+      "scenario_id": "SCN-0012",
+      "denial_code": "CO-16",
+      "denial_category": "coding",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 14,
+      "success_rate_percent": 96.4
+    },
+    {
+      "scenario_id": "SCN-0013",
+      "denial_code": "CO-16",
+      "denial_category": "coding",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "high",
+      "average_resolution_days": 38,
+      "success_rate_percent": 78.2
+    },
+    {
+      "scenario_id": "SCN-0014",
+      "denial_code": "CO-16",
+      "denial_category": "coding",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 7,
+      "success_rate_percent": 66.2
+    },
+    {
+      "scenario_id": "SCN-0015",
+      "denial_code": "CO-16",
+      "denial_category": "coding",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "low",
+      "average_resolution_days": 16,
+      "success_rate_percent": 77.3
+    },
+    {
+      "scenario_id": "SCN-0016",
+      "denial_code": "CO-16",
+      "denial_category": "coding",
+      "payer_name": "Kaiser Permanente",
+      "denial_description": "Kaiser Permanente denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 43,
+      "success_rate_percent": 65.8
+    },
+    {
+      "scenario_id": "SCN-0017",
+      "denial_code": "CO-18",
+      "denial_category": "duplicate",
+      "payer_name": "Tricare",
+      "denial_description": "Tricare denied the claim with CO-18: Duplicate claim/service. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 16,
+      "success_rate_percent": 69.1
+    },
+    {
+      "scenario_id": "SCN-0018",
+      "denial_code": "CO-18",
+      "denial_category": "duplicate",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-18: Duplicate claim/service. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 11,
+      "success_rate_percent": 95.0
+    },
+    {
+      "scenario_id": "SCN-0019",
+      "denial_code": "CO-18",
+      "denial_category": "duplicate",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-18: Duplicate claim/service. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 44,
+      "success_rate_percent": 85.7
+    },
+    {
+      "scenario_id": "SCN-0020",
+      "denial_code": "CO-18",
+      "denial_category": "duplicate",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-18: Duplicate claim/service. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 27,
+      "success_rate_percent": 75.4
+    },
+    {
+      "scenario_id": "SCN-0021",
+      "denial_code": "CO-18",
+      "denial_category": "duplicate",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-18: Duplicate claim/service. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 15,
+      "success_rate_percent": 81.5
+    },
+    {
+      "scenario_id": "SCN-0022",
+      "denial_code": "CO-18",
+      "denial_category": "duplicate",
+      "payer_name": "Aetna",
+      "denial_description": "Aetna denied the claim with CO-18: Duplicate claim/service. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 10,
+      "success_rate_percent": 65.5
+    },
+    {
+      "scenario_id": "SCN-0023",
+      "denial_code": "CO-18",
+      "denial_category": "duplicate",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-18: Duplicate claim/service. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 30,
+      "success_rate_percent": 95.5
+    },
+    {
+      "scenario_id": "SCN-0024",
+      "denial_code": "CO-18",
+      "denial_category": "duplicate",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-18: Duplicate claim/service. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 40,
+      "success_rate_percent": 66.0
+    },
+    {
+      "scenario_id": "SCN-0025",
+      "denial_code": "CO-22",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Kaiser Permanente",
+      "denial_description": "Kaiser Permanente denied the claim with CO-22: Care may be covered by another payer. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 7,
+      "success_rate_percent": 68.2
+    },
+    {
+      "scenario_id": "SCN-0026",
+      "denial_code": "CO-22",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-22: Care may be covered by another payer. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 12,
+      "success_rate_percent": 86.6
+    },
+    {
+      "scenario_id": "SCN-0027",
+      "denial_code": "CO-22",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Tricare",
+      "denial_description": "Tricare denied the claim with CO-22: Care may be covered by another payer. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 25,
+      "success_rate_percent": 76.2
+    },
+    {
+      "scenario_id": "SCN-0028",
+      "denial_code": "CO-22",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-22: Care may be covered by another payer. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 11,
+      "success_rate_percent": 83.5
+    },
+    {
+      "scenario_id": "SCN-0029",
+      "denial_code": "CO-22",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-22: Care may be covered by another payer. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 18,
+      "success_rate_percent": 77.8
+    },
+    {
+      "scenario_id": "SCN-0030",
+      "denial_code": "CO-22",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with CO-22: Care may be covered by another payer. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 37,
+      "success_rate_percent": 79.8
+    },
+    {
+      "scenario_id": "SCN-0031",
+      "denial_code": "CO-22",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-22: Care may be covered by another payer. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 25,
+      "success_rate_percent": 85.7
+    },
+    {
+      "scenario_id": "SCN-0032",
+      "denial_code": "CO-22",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-22: Care may be covered by another payer. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 28,
+      "success_rate_percent": 69.3
+    },
+    {
+      "scenario_id": "SCN-0033",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 42,
+      "success_rate_percent": 84.3
+    },
+    {
+      "scenario_id": "SCN-0034",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 22,
+      "success_rate_percent": 76.5
+    },
+    {
+      "scenario_id": "SCN-0035",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Aetna",
+      "denial_description": "Aetna denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 16,
+      "success_rate_percent": 68.9
+    },
+    {
+      "scenario_id": "SCN-0036",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 20,
+      "success_rate_percent": 69.3
+    },
+    {
+      "scenario_id": "SCN-0037",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 25,
+      "success_rate_percent": 86.1
+    },
+    {
+      "scenario_id": "SCN-0038",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 45,
+      "success_rate_percent": 74.5
+    },
+    {
+      "scenario_id": "SCN-0039",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Tricare",
+      "denial_description": "Tricare denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 17,
+      "success_rate_percent": 84.6
+    },
+    {
+      "scenario_id": "SCN-0040",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 27,
+      "success_rate_percent": 73.0
+    },
+    {
+      "scenario_id": "SCN-0041",
+      "denial_code": "CO-109",
+      "denial_category": "eligibility",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-109: Claim not covered by this payer. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 12,
+      "success_rate_percent": 66.2
+    },
+    {
+      "scenario_id": "SCN-0042",
+      "denial_code": "CO-109",
+      "denial_category": "eligibility",
+      "payer_name": "Tricare",
+      "denial_description": "Tricare denied the claim with CO-109: Claim not covered by this payer. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 11,
+      "success_rate_percent": 79.4
+    },
+    {
+      "scenario_id": "SCN-0043",
+      "denial_code": "CO-109",
+      "denial_category": "eligibility",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-109: Claim not covered by this payer. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 45,
+      "success_rate_percent": 74.9
+    },
+    {
+      "scenario_id": "SCN-0044",
+      "denial_code": "CO-109",
+      "denial_category": "eligibility",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-109: Claim not covered by this payer. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 40,
+      "success_rate_percent": 86.4
+    },
+    {
+      "scenario_id": "SCN-0045",
+      "denial_code": "CO-109",
+      "denial_category": "eligibility",
+      "payer_name": "Kaiser Permanente",
+      "denial_description": "Kaiser Permanente denied the claim with CO-109: Claim not covered by this payer. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 45,
+      "success_rate_percent": 96.2
+    },
+    {
+      "scenario_id": "SCN-0046",
+      "denial_code": "CO-109",
+      "denial_category": "eligibility",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-109: Claim not covered by this payer. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 35,
+      "success_rate_percent": 77.9
+    },
+    {
+      "scenario_id": "SCN-0047",
+      "denial_code": "CO-109",
+      "denial_category": "eligibility",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-109: Claim not covered by this payer. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 9,
+      "success_rate_percent": 93.5
+    },
+    {
+      "scenario_id": "SCN-0048",
+      "denial_code": "CO-109",
+      "denial_category": "eligibility",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-109: Claim not covered by this payer. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 15,
+      "success_rate_percent": 71.9
+    },
+    {
+      "scenario_id": "SCN-0049",
+      "denial_code": "CO-29",
+      "denial_category": "timely_filing",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-29: Time limit for filing has expired. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify the payer's timely filing limit (typically 90-365 days)",
+        "Calculate days from date of service to original submission",
+        "Gather proof of original timely submission if applicable",
+        "Prepare timely filing appeal with supporting documentation",
+        "Submit appeal within payer's appeal filing deadline"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 11,
+      "success_rate_percent": 90.6
+    },
+    {
+      "scenario_id": "SCN-0050",
+      "denial_code": "CO-29",
+      "denial_category": "timely_filing",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-29: Time limit for filing has expired. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify the payer's timely filing limit (typically 90-365 days)",
+        "Calculate days from date of service to original submission",
+        "Gather proof of original timely submission if applicable",
+        "Prepare timely filing appeal with supporting documentation",
+        "Submit appeal within payer's appeal filing deadline"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 32,
+      "success_rate_percent": 67.9
+    },
+    {
+      "scenario_id": "SCN-0051",
+      "denial_code": "CO-29",
+      "denial_category": "timely_filing",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-29: Time limit for filing has expired. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify the payer's timely filing limit (typically 90-365 days)",
+        "Calculate days from date of service to original submission",
+        "Gather proof of original timely submission if applicable",
+        "Prepare timely filing appeal with supporting documentation",
+        "Submit appeal within payer's appeal filing deadline"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "low",
+      "average_resolution_days": 26,
+      "success_rate_percent": 70.2
+    },
+    {
+      "scenario_id": "SCN-0052",
+      "denial_code": "CO-29",
+      "denial_category": "timely_filing",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-29: Time limit for filing has expired. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify the payer's timely filing limit (typically 90-365 days)",
+        "Calculate days from date of service to original submission",
+        "Gather proof of original timely submission if applicable",
+        "Prepare timely filing appeal with supporting documentation",
+        "Submit appeal within payer's appeal filing deadline"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "high",
+      "average_resolution_days": 9,
+      "success_rate_percent": 93.9
+    },
+    {
+      "scenario_id": "SCN-0053",
+      "denial_code": "CO-29",
+      "denial_category": "timely_filing",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-29: Time limit for filing has expired. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify the payer's timely filing limit (typically 90-365 days)",
+        "Calculate days from date of service to original submission",
+        "Gather proof of original timely submission if applicable",
+        "Prepare timely filing appeal with supporting documentation",
+        "Submit appeal within payer's appeal filing deadline"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 31,
+      "success_rate_percent": 88.7
+    },
+    {
+      "scenario_id": "SCN-0054",
+      "denial_code": "CO-29",
+      "denial_category": "timely_filing",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-29: Time limit for filing has expired. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify the payer's timely filing limit (typically 90-365 days)",
+        "Calculate days from date of service to original submission",
+        "Gather proof of original timely submission if applicable",
+        "Prepare timely filing appeal with supporting documentation",
+        "Submit appeal within payer's appeal filing deadline"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 22,
+      "success_rate_percent": 80.4
+    },
+    {
+      "scenario_id": "SCN-0055",
+      "denial_code": "CO-29",
+      "denial_category": "timely_filing",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-29: Time limit for filing has expired. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify the payer's timely filing limit (typically 90-365 days)",
+        "Calculate days from date of service to original submission",
+        "Gather proof of original timely submission if applicable",
+        "Prepare timely filing appeal with supporting documentation",
+        "Submit appeal within payer's appeal filing deadline"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 43,
+      "success_rate_percent": 97.1
+    },
+    {
+      "scenario_id": "SCN-0056",
+      "denial_code": "CO-29",
+      "denial_category": "timely_filing",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-29: Time limit for filing has expired. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify the payer's timely filing limit (typically 90-365 days)",
+        "Calculate days from date of service to original submission",
+        "Gather proof of original timely submission if applicable",
+        "Prepare timely filing appeal with supporting documentation",
+        "Submit appeal within payer's appeal filing deadline"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "high",
+      "average_resolution_days": 28,
+      "success_rate_percent": 68.6
+    },
+    {
+      "scenario_id": "SCN-0057",
+      "denial_code": "CO-50",
+      "denial_category": "medical_necessity",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-50: Non-covered service. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review payer's medical policy for the denied service",
+        "Obtain supporting clinical documentation from provider",
+        "Check if prior authorization was required but not obtained",
+        "Prepare medical necessity appeal with clinical evidence",
+        "Submit appeal with peer-to-peer review request if available"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "high",
+      "average_resolution_days": 45,
+      "success_rate_percent": 73.9
+    },
+    {
+      "scenario_id": "SCN-0058",
+      "denial_code": "CO-50",
+      "denial_category": "medical_necessity",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-50: Non-covered service. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review payer's medical policy for the denied service",
+        "Obtain supporting clinical documentation from provider",
+        "Check if prior authorization was required but not obtained",
+        "Prepare medical necessity appeal with clinical evidence",
+        "Submit appeal with peer-to-peer review request if available"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 20,
+      "success_rate_percent": 89.3
+    },
+    {
+      "scenario_id": "SCN-0059",
+      "denial_code": "CO-50",
+      "denial_category": "medical_necessity",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-50: Non-covered service. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review payer's medical policy for the denied service",
+        "Obtain supporting clinical documentation from provider",
+        "Check if prior authorization was required but not obtained",
+        "Prepare medical necessity appeal with clinical evidence",
+        "Submit appeal with peer-to-peer review request if available"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 3,
+      "success_rate_percent": 85.0
+    },
+    {
+      "scenario_id": "SCN-0060",
+      "denial_code": "CO-50",
+      "denial_category": "medical_necessity",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-50: Non-covered service. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review payer's medical policy for the denied service",
+        "Obtain supporting clinical documentation from provider",
+        "Check if prior authorization was required but not obtained",
+        "Prepare medical necessity appeal with clinical evidence",
+        "Submit appeal with peer-to-peer review request if available"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 43,
+      "success_rate_percent": 96.3
+    },
+    {
+      "scenario_id": "SCN-0061",
+      "denial_code": "CO-50",
+      "denial_category": "medical_necessity",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-50: Non-covered service. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review payer's medical policy for the denied service",
+        "Obtain supporting clinical documentation from provider",
+        "Check if prior authorization was required but not obtained",
+        "Prepare medical necessity appeal with clinical evidence",
+        "Submit appeal with peer-to-peer review request if available"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 34,
+      "success_rate_percent": 89.7
+    },
+    {
+      "scenario_id": "SCN-0062",
+      "denial_code": "CO-50",
+      "denial_category": "medical_necessity",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-50: Non-covered service. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review payer's medical policy for the denied service",
+        "Obtain supporting clinical documentation from provider",
+        "Check if prior authorization was required but not obtained",
+        "Prepare medical necessity appeal with clinical evidence",
+        "Submit appeal with peer-to-peer review request if available"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 25,
+      "success_rate_percent": 71.6
+    },
+    {
+      "scenario_id": "SCN-0063",
+      "denial_code": "CO-50",
+      "denial_category": "medical_necessity",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-50: Non-covered service. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review payer's medical policy for the denied service",
+        "Obtain supporting clinical documentation from provider",
+        "Check if prior authorization was required but not obtained",
+        "Prepare medical necessity appeal with clinical evidence",
+        "Submit appeal with peer-to-peer review request if available"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 17,
+      "success_rate_percent": 73.4
+    },
+    {
+      "scenario_id": "SCN-0064",
+      "denial_code": "CO-50",
+      "denial_category": "medical_necessity",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-50: Non-covered service. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review payer's medical policy for the denied service",
+        "Obtain supporting clinical documentation from provider",
+        "Check if prior authorization was required but not obtained",
+        "Prepare medical necessity appeal with clinical evidence",
+        "Submit appeal with peer-to-peer review request if available"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 35,
+      "success_rate_percent": 74.9
+    },
+    {
+      "scenario_id": "SCN-0065",
+      "denial_code": "CO-96",
+      "denial_category": "medical_necessity",
+      "payer_name": "Kaiser Permanente",
+      "denial_description": "Kaiser Permanente denied the claim with CO-96: Non-covered charge(s). This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 5,
+      "success_rate_percent": 65.2
+    },
+    {
+      "scenario_id": "SCN-0066",
+      "denial_code": "CO-96",
+      "denial_category": "medical_necessity",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-96: Non-covered charge(s). This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 42,
+      "success_rate_percent": 90.3
+    },
+    {
+      "scenario_id": "SCN-0067",
+      "denial_code": "CO-96",
+      "denial_category": "medical_necessity",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-96: Non-covered charge(s). This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "low",
+      "average_resolution_days": 40,
+      "success_rate_percent": 90.6
+    },
+    {
+      "scenario_id": "SCN-0068",
+      "denial_code": "CO-96",
+      "denial_category": "medical_necessity",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-96: Non-covered charge(s). This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 39,
+      "success_rate_percent": 78.4
+    },
+    {
+      "scenario_id": "SCN-0069",
+      "denial_code": "CO-96",
+      "denial_category": "medical_necessity",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-96: Non-covered charge(s). This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 17,
+      "success_rate_percent": 65.6
+    },
+    {
+      "scenario_id": "SCN-0070",
+      "denial_code": "CO-96",
+      "denial_category": "medical_necessity",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-96: Non-covered charge(s). This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 31,
+      "success_rate_percent": 88.2
+    },
+    {
+      "scenario_id": "SCN-0071",
+      "denial_code": "CO-96",
+      "denial_category": "medical_necessity",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-96: Non-covered charge(s). This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 39,
+      "success_rate_percent": 93.7
+    },
+    {
+      "scenario_id": "SCN-0072",
+      "denial_code": "CO-96",
+      "denial_category": "medical_necessity",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-96: Non-covered charge(s). This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "high",
+      "average_resolution_days": 36,
+      "success_rate_percent": 85.8
+    },
+    {
+      "scenario_id": "SCN-0073",
+      "denial_code": "CO-151",
+      "denial_category": "medical_necessity",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "low",
+      "average_resolution_days": 43,
+      "success_rate_percent": 90.0
+    },
+    {
+      "scenario_id": "SCN-0074",
+      "denial_code": "CO-151",
+      "denial_category": "medical_necessity",
+      "payer_name": "Anthem",
+      "denial_description": "Anthem denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 27,
+      "success_rate_percent": 84.0
+    },
+    {
+      "scenario_id": "SCN-0075",
+      "denial_code": "CO-151",
+      "denial_category": "medical_necessity",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "high",
+      "average_resolution_days": 13,
+      "success_rate_percent": 80.3
+    },
+    {
+      "scenario_id": "SCN-0076",
+      "denial_code": "CO-151",
+      "denial_category": "medical_necessity",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "high",
+      "average_resolution_days": 28,
+      "success_rate_percent": 78.1
+    },
+    {
+      "scenario_id": "SCN-0077",
+      "denial_code": "CO-151",
+      "denial_category": "medical_necessity",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 4,
+      "success_rate_percent": 73.4
+    },
+    {
+      "scenario_id": "SCN-0078",
+      "denial_code": "CO-151",
+      "denial_category": "medical_necessity",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 9,
+      "success_rate_percent": 77.9
+    },
+    {
+      "scenario_id": "SCN-0079",
+      "denial_code": "CO-151",
+      "denial_category": "medical_necessity",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 9,
+      "success_rate_percent": 94.7
+    },
+    {
+      "scenario_id": "SCN-0080",
+      "denial_code": "CO-151",
+      "denial_category": "medical_necessity",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "low",
+      "average_resolution_days": 39,
+      "success_rate_percent": 65.2
+    },
+    {
+      "scenario_id": "SCN-0081",
+      "denial_code": "CO-97",
+      "denial_category": "billing",
+      "payer_name": "Anthem",
+      "denial_description": "Anthem denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 14,
+      "success_rate_percent": 65.4
+    },
+    {
+      "scenario_id": "SCN-0082",
+      "denial_code": "CO-97",
+      "denial_category": "billing",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 17,
+      "success_rate_percent": 95.4
+    },
+    {
+      "scenario_id": "SCN-0083",
+      "denial_code": "CO-97",
+      "denial_category": "billing",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 36,
+      "success_rate_percent": 80.1
+    },
+    {
+      "scenario_id": "SCN-0084",
+      "denial_code": "CO-97",
+      "denial_category": "billing",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 6,
+      "success_rate_percent": 85.3
+    },
+    {
+      "scenario_id": "SCN-0085",
+      "denial_code": "CO-97",
+      "denial_category": "billing",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 12,
+      "success_rate_percent": 81.7
+    },
+    {
+      "scenario_id": "SCN-0086",
+      "denial_code": "CO-97",
+      "denial_category": "billing",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 27,
+      "success_rate_percent": 66.1
+    },
+    {
+      "scenario_id": "SCN-0087",
+      "denial_code": "CO-97",
+      "denial_category": "billing",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 6,
+      "success_rate_percent": 80.9
+    },
+    {
+      "scenario_id": "SCN-0088",
+      "denial_code": "CO-97",
+      "denial_category": "billing",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 3,
+      "success_rate_percent": 78.5
+    },
+    {
+      "scenario_id": "SCN-0089",
+      "denial_code": "CO-119",
+      "denial_category": "billing",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 5,
+      "success_rate_percent": 78.5
+    },
+    {
+      "scenario_id": "SCN-0090",
+      "denial_code": "CO-119",
+      "denial_category": "billing",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 8,
+      "success_rate_percent": 73.6
+    },
+    {
+      "scenario_id": "SCN-0091",
+      "denial_code": "CO-119",
+      "denial_category": "billing",
+      "payer_name": "Anthem",
+      "denial_description": "Anthem denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 20,
+      "success_rate_percent": 89.8
+    },
+    {
+      "scenario_id": "SCN-0092",
+      "denial_code": "CO-119",
+      "denial_category": "billing",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 13,
+      "success_rate_percent": 80.9
+    },
+    {
+      "scenario_id": "SCN-0093",
+      "denial_code": "CO-119",
+      "denial_category": "billing",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 18,
+      "success_rate_percent": 78.3
+    },
+    {
+      "scenario_id": "SCN-0094",
+      "denial_code": "CO-119",
+      "denial_category": "billing",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 22,
+      "success_rate_percent": 75.0
+    },
+    {
+      "scenario_id": "SCN-0095",
+      "denial_code": "CO-119",
+      "denial_category": "billing",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 9,
+      "success_rate_percent": 80.0
+    },
+    {
+      "scenario_id": "SCN-0096",
+      "denial_code": "CO-119",
+      "denial_category": "billing",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 15,
+      "success_rate_percent": 91.6
+    },
+    {
+      "scenario_id": "SCN-0097",
+      "denial_code": "CO-204",
+      "denial_category": "billing",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 23,
+      "success_rate_percent": 85.4
+    },
+    {
+      "scenario_id": "SCN-0098",
+      "denial_code": "CO-204",
+      "denial_category": "billing",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 13,
+      "success_rate_percent": 84.7
+    },
+    {
+      "scenario_id": "SCN-0099",
+      "denial_code": "CO-204",
+      "denial_category": "billing",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 3,
+      "success_rate_percent": 92.5
+    },
+    {
+      "scenario_id": "SCN-0100",
+      "denial_code": "CO-204",
+      "denial_category": "billing",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 4,
+      "success_rate_percent": 88.9
+    },
+    {
+      "scenario_id": "SCN-0101",
+      "denial_code": "CO-204",
+      "denial_category": "billing",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 19,
+      "success_rate_percent": 78.2
+    },
+    {
+      "scenario_id": "SCN-0102",
+      "denial_code": "CO-204",
+      "denial_category": "billing",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 42,
+      "success_rate_percent": 81.1
+    },
+    {
+      "scenario_id": "SCN-0103",
+      "denial_code": "CO-204",
+      "denial_category": "billing",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 19,
+      "success_rate_percent": 97.2
+    },
+    {
+      "scenario_id": "SCN-0104",
+      "denial_code": "CO-204",
+      "denial_category": "billing",
+      "payer_name": "Tricare",
+      "denial_description": "Tricare denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 27,
+      "success_rate_percent": 91.0
+    },
+    {
+      "scenario_id": "SCN-0105",
+      "denial_code": "CO-197",
+      "denial_category": "authorization",
+      "payer_name": "Aetna",
+      "denial_description": "Aetna denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 42,
+      "success_rate_percent": 73.5
+    },
+    {
+      "scenario_id": "SCN-0106",
+      "denial_code": "CO-197",
+      "denial_category": "authorization",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 28,
+      "success_rate_percent": 71.8
+    },
+    {
+      "scenario_id": "SCN-0107",
+      "denial_code": "CO-197",
+      "denial_category": "authorization",
+      "payer_name": "Tricare",
+      "denial_description": "Tricare denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 44,
+      "success_rate_percent": 84.0
+    },
+    {
+      "scenario_id": "SCN-0108",
+      "denial_code": "CO-197",
+      "denial_category": "authorization",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 27,
+      "success_rate_percent": 95.7
+    },
+    {
+      "scenario_id": "SCN-0109",
+      "denial_code": "CO-197",
+      "denial_category": "authorization",
+      "payer_name": "Aetna",
+      "denial_description": "Aetna denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 28,
+      "success_rate_percent": 95.2
+    },
+    {
+      "scenario_id": "SCN-0110",
+      "denial_code": "CO-197",
+      "denial_category": "authorization",
+      "payer_name": "Aetna",
+      "denial_description": "Aetna denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 37,
+      "success_rate_percent": 65.8
+    },
+    {
+      "scenario_id": "SCN-0111",
+      "denial_code": "CO-197",
+      "denial_category": "authorization",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 43,
+      "success_rate_percent": 91.9
+    },
+    {
+      "scenario_id": "SCN-0112",
+      "denial_code": "CO-197",
+      "denial_category": "authorization",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 26,
+      "success_rate_percent": 81.6
+    },
+    {
+      "scenario_id": "SCN-0113",
+      "denial_code": "PR-1",
+      "denial_category": "other",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with PR-1: Deductible amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 35,
+      "success_rate_percent": 66.7
+    },
+    {
+      "scenario_id": "SCN-0114",
+      "denial_code": "PR-1",
+      "denial_category": "other",
+      "payer_name": "Tricare",
+      "denial_description": "Tricare denied the claim with PR-1: Deductible amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 27,
+      "success_rate_percent": 84.3
+    },
+    {
+      "scenario_id": "SCN-0115",
+      "denial_code": "PR-1",
+      "denial_category": "other",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with PR-1: Deductible amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 36,
+      "success_rate_percent": 76.9
+    },
+    {
+      "scenario_id": "SCN-0116",
+      "denial_code": "PR-1",
+      "denial_category": "other",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with PR-1: Deductible amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 4,
+      "success_rate_percent": 92.8
+    },
+    {
+      "scenario_id": "SCN-0117",
+      "denial_code": "PR-1",
+      "denial_category": "other",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with PR-1: Deductible amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 39,
+      "success_rate_percent": 72.4
+    },
+    {
+      "scenario_id": "SCN-0118",
+      "denial_code": "PR-1",
+      "denial_category": "other",
+      "payer_name": "Anthem",
+      "denial_description": "Anthem denied the claim with PR-1: Deductible amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 30,
+      "success_rate_percent": 92.1
+    },
+    {
+      "scenario_id": "SCN-0119",
+      "denial_code": "PR-1",
+      "denial_category": "other",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with PR-1: Deductible amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 34,
+      "success_rate_percent": 83.1
+    },
+    {
+      "scenario_id": "SCN-0120",
+      "denial_code": "PR-1",
+      "denial_category": "other",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with PR-1: Deductible amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 30,
+      "success_rate_percent": 65.3
+    },
+    {
+      "scenario_id": "SCN-0121",
+      "denial_code": "PR-2",
+      "denial_category": "other",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with PR-2: Coinsurance amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 39,
+      "success_rate_percent": 73.8
+    },
+    {
+      "scenario_id": "SCN-0122",
+      "denial_code": "PR-2",
+      "denial_category": "other",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with PR-2: Coinsurance amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 18,
+      "success_rate_percent": 89.5
+    },
+    {
+      "scenario_id": "SCN-0123",
+      "denial_code": "PR-2",
+      "denial_category": "other",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with PR-2: Coinsurance amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 39,
+      "success_rate_percent": 92.2
+    },
+    {
+      "scenario_id": "SCN-0124",
+      "denial_code": "PR-2",
+      "denial_category": "other",
+      "payer_name": "Tricare",
+      "denial_description": "Tricare denied the claim with PR-2: Coinsurance amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 5,
+      "success_rate_percent": 76.4
+    },
+    {
+      "scenario_id": "SCN-0125",
+      "denial_code": "PR-2",
+      "denial_category": "other",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with PR-2: Coinsurance amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 5,
+      "success_rate_percent": 97.2
+    },
+    {
+      "scenario_id": "SCN-0126",
+      "denial_code": "PR-2",
+      "denial_category": "other",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with PR-2: Coinsurance amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 24,
+      "success_rate_percent": 72.4
+    },
+    {
+      "scenario_id": "SCN-0127",
+      "denial_code": "PR-2",
+      "denial_category": "other",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with PR-2: Coinsurance amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 41,
+      "success_rate_percent": 84.0
+    },
+    {
+      "scenario_id": "SCN-0128",
+      "denial_code": "PR-2",
+      "denial_category": "other",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with PR-2: Coinsurance amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 18,
+      "success_rate_percent": 65.3
+    },
+    {
+      "scenario_id": "SCN-0129",
+      "denial_code": "PR-3",
+      "denial_category": "other",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with PR-3: Co-payment amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 24,
+      "success_rate_percent": 75.5
+    },
+    {
+      "scenario_id": "SCN-0130",
+      "denial_code": "PR-3",
+      "denial_category": "other",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with PR-3: Co-payment amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 41,
+      "success_rate_percent": 72.1
+    },
+    {
+      "scenario_id": "SCN-0131",
+      "denial_code": "PR-3",
+      "denial_category": "other",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with PR-3: Co-payment amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 34,
+      "success_rate_percent": 88.1
+    },
+    {
+      "scenario_id": "SCN-0132",
+      "denial_code": "PR-3",
+      "denial_category": "other",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with PR-3: Co-payment amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 6,
+      "success_rate_percent": 70.6
+    },
+    {
+      "scenario_id": "SCN-0133",
+      "denial_code": "PR-3",
+      "denial_category": "other",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with PR-3: Co-payment amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 37,
+      "success_rate_percent": 90.1
+    },
+    {
+      "scenario_id": "SCN-0134",
+      "denial_code": "PR-3",
+      "denial_category": "other",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with PR-3: Co-payment amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 22,
+      "success_rate_percent": 66.8
+    },
+    {
+      "scenario_id": "SCN-0135",
+      "denial_code": "PR-3",
+      "denial_category": "other",
+      "payer_name": "Kaiser Permanente",
+      "denial_description": "Kaiser Permanente denied the claim with PR-3: Co-payment amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 32,
+      "success_rate_percent": 80.9
+    },
+    {
+      "scenario_id": "SCN-0136",
+      "denial_code": "PR-3",
+      "denial_category": "other",
+      "payer_name": "Aetna",
+      "denial_description": "Aetna denied the claim with PR-3: Co-payment amount. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 19,
+      "success_rate_percent": 68.1
+    },
+    {
+      "scenario_id": "SCN-0137",
+      "denial_code": "PR-3",
+      "denial_category": "duplicate",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with PR-3: Co-payment amount. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 30,
+      "success_rate_percent": 95.5
+    },
+    {
+      "scenario_id": "SCN-0138",
+      "denial_code": "CO-4",
+      "denial_category": "timely_filing",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "high",
+      "average_resolution_days": 30,
+      "success_rate_percent": 74.5
+    },
+    {
+      "scenario_id": "SCN-0139",
+      "denial_code": "CO-109",
+      "denial_category": "other",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with CO-109: Claim not covered by this payer. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 5,
+      "success_rate_percent": 73.0
+    },
+    {
+      "scenario_id": "SCN-0140",
+      "denial_code": "CO-119",
+      "denial_category": "provider",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the provider category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 16,
+      "success_rate_percent": 78.8
+    },
+    {
+      "scenario_id": "SCN-0141",
+      "denial_code": "CO-109",
+      "denial_category": "timely_filing",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-109: Claim not covered by this payer. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 40,
+      "success_rate_percent": 90.0
+    },
+    {
+      "scenario_id": "SCN-0142",
+      "denial_code": "CO-151",
+      "denial_category": "timely_filing",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 45,
+      "success_rate_percent": 85.8
+    },
+    {
+      "scenario_id": "SCN-0143",
+      "denial_code": "CO-96",
+      "denial_category": "medical_necessity",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-96: Non-covered charge(s). This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 4,
+      "success_rate_percent": 87.5
+    },
+    {
+      "scenario_id": "SCN-0144",
+      "denial_code": "CO-18",
+      "denial_category": "authorization",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-18: Duplicate claim/service. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 36,
+      "success_rate_percent": 70.4
+    },
+    {
+      "scenario_id": "SCN-0145",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Kaiser Permanente",
+      "denial_description": "Kaiser Permanente denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 16,
+      "success_rate_percent": 71.0
+    },
+    {
+      "scenario_id": "SCN-0146",
+      "denial_code": "CO-4",
+      "denial_category": "authorization",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 45,
+      "success_rate_percent": 68.5
+    },
+    {
+      "scenario_id": "SCN-0147",
+      "denial_code": "CO-16",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 37,
+      "success_rate_percent": 89.0
+    },
+    {
+      "scenario_id": "SCN-0148",
+      "denial_code": "CO-4",
+      "denial_category": "eligibility",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 13,
+      "success_rate_percent": 66.1
+    },
+    {
+      "scenario_id": "SCN-0149",
+      "denial_code": "CO-16",
+      "denial_category": "provider",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the provider category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 3,
+      "success_rate_percent": 69.9
+    },
+    {
+      "scenario_id": "SCN-0150",
+      "denial_code": "CO-97",
+      "denial_category": "duplicate",
+      "payer_name": "Tricare",
+      "denial_description": "Tricare denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 25,
+      "success_rate_percent": 70.0
+    },
+    {
+      "scenario_id": "SCN-0151",
+      "denial_code": "CO-50",
+      "denial_category": "coding",
+      "payer_name": "Kaiser Permanente",
+      "denial_description": "Kaiser Permanente denied the claim with CO-50: Non-covered service. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review payer's medical policy for the denied service",
+        "Obtain supporting clinical documentation from provider",
+        "Check if prior authorization was required but not obtained",
+        "Prepare medical necessity appeal with clinical evidence",
+        "Submit appeal with peer-to-peer review request if available"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 13,
+      "success_rate_percent": 66.5
+    },
+    {
+      "scenario_id": "SCN-0152",
+      "denial_code": "CO-29",
+      "denial_category": "billing",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-29: Time limit for filing has expired. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify the payer's timely filing limit (typically 90-365 days)",
+        "Calculate days from date of service to original submission",
+        "Gather proof of original timely submission if applicable",
+        "Prepare timely filing appeal with supporting documentation",
+        "Submit appeal within payer's appeal filing deadline"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 17,
+      "success_rate_percent": 84.8
+    },
+    {
+      "scenario_id": "SCN-0153",
+      "denial_code": "CO-119",
+      "denial_category": "coding",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "low",
+      "average_resolution_days": 8,
+      "success_rate_percent": 73.0
+    },
+    {
+      "scenario_id": "SCN-0154",
+      "denial_code": "CO-97",
+      "denial_category": "other",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 33,
+      "success_rate_percent": 91.2
+    },
+    {
+      "scenario_id": "SCN-0155",
+      "denial_code": "PR-3",
+      "denial_category": "provider",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with PR-3: Co-payment amount. This denial falls under the provider category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 29,
+      "success_rate_percent": 80.2
+    },
+    {
+      "scenario_id": "SCN-0156",
+      "denial_code": "PR-2",
+      "denial_category": "provider",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with PR-2: Coinsurance amount. This denial falls under the provider category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 36,
+      "success_rate_percent": 68.2
+    },
+    {
+      "scenario_id": "SCN-0157",
+      "denial_code": "CO-96",
+      "denial_category": "provider",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-96: Non-covered charge(s). This denial falls under the provider category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 6,
+      "success_rate_percent": 83.9
+    },
+    {
+      "scenario_id": "SCN-0158",
+      "denial_code": "PR-1",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with PR-1: Deductible amount. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 45,
+      "success_rate_percent": 84.5
+    },
+    {
+      "scenario_id": "SCN-0159",
+      "denial_code": "CO-22",
+      "denial_category": "provider",
+      "payer_name": "Kaiser Permanente",
+      "denial_description": "Kaiser Permanente denied the claim with CO-22: Care may be covered by another payer. This denial falls under the provider category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 3,
+      "success_rate_percent": 93.7
+    },
+    {
+      "scenario_id": "SCN-0160",
+      "denial_code": "CO-204",
+      "denial_category": "other",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 5,
+      "success_rate_percent": 87.5
+    },
+    {
+      "scenario_id": "SCN-0161",
+      "denial_code": "CO-109",
+      "denial_category": "medical_necessity",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-109: Claim not covered by this payer. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 25,
+      "success_rate_percent": 74.7
+    },
+    {
+      "scenario_id": "SCN-0162",
+      "denial_code": "CO-151",
+      "denial_category": "duplicate",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 8,
+      "success_rate_percent": 78.7
+    },
+    {
+      "scenario_id": "SCN-0163",
+      "denial_code": "CO-109",
+      "denial_category": "billing",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-109: Claim not covered by this payer. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 24,
+      "success_rate_percent": 82.8
+    },
+    {
+      "scenario_id": "SCN-0164",
+      "denial_code": "PR-2",
+      "denial_category": "authorization",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with PR-2: Coinsurance amount. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 34,
+      "success_rate_percent": 97.4
+    },
+    {
+      "scenario_id": "SCN-0165",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 17,
+      "success_rate_percent": 73.1
+    },
+    {
+      "scenario_id": "SCN-0166",
+      "denial_code": "CO-97",
+      "denial_category": "timely_filing",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "high",
+      "average_resolution_days": 40,
+      "success_rate_percent": 72.6
+    },
+    {
+      "scenario_id": "SCN-0167",
+      "denial_code": "CO-50",
+      "denial_category": "timely_filing",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-50: Non-covered service. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review payer's medical policy for the denied service",
+        "Obtain supporting clinical documentation from provider",
+        "Check if prior authorization was required but not obtained",
+        "Prepare medical necessity appeal with clinical evidence",
+        "Submit appeal with peer-to-peer review request if available"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "high",
+      "average_resolution_days": 29,
+      "success_rate_percent": 71.6
+    },
+    {
+      "scenario_id": "SCN-0168",
+      "denial_code": "CO-22",
+      "denial_category": "medical_necessity",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-22: Care may be covered by another payer. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 6,
+      "success_rate_percent": 85.1
+    },
+    {
+      "scenario_id": "SCN-0169",
+      "denial_code": "CO-109",
+      "denial_category": "coding",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-109: Claim not covered by this payer. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 7,
+      "success_rate_percent": 81.6
+    },
+    {
+      "scenario_id": "SCN-0170",
+      "denial_code": "CO-151",
+      "denial_category": "eligibility",
+      "payer_name": "Aetna",
+      "denial_description": "Aetna denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "critical",
+      "average_resolution_days": 28,
+      "success_rate_percent": 70.3
+    },
+    {
+      "scenario_id": "SCN-0171",
+      "denial_code": "CO-119",
+      "denial_category": "medical_necessity",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 24,
+      "success_rate_percent": 86.7
+    },
+    {
+      "scenario_id": "SCN-0172",
+      "denial_code": "CO-18",
+      "denial_category": "duplicate",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-18: Duplicate claim/service. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 30,
+      "success_rate_percent": 79.6
+    },
+    {
+      "scenario_id": "SCN-0173",
+      "denial_code": "CO-27",
+      "denial_category": "authorization",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 26,
+      "success_rate_percent": 76.2
+    },
+    {
+      "scenario_id": "SCN-0174",
+      "denial_code": "CO-4",
+      "denial_category": "provider",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-4: Procedure code inconsistent with modifier. This denial falls under the provider category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the procedure code and modifier combination on the claim",
+        "Verify modifier usage against payer-specific coding guidelines",
+        "Check NCCI edits for modifier requirements",
+        "Correct the modifier or procedure code as needed",
+        "Resubmit with corrected coding and supporting documentation"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 39,
+      "success_rate_percent": 69.6
+    },
+    {
+      "scenario_id": "SCN-0175",
+      "denial_code": "CO-151",
+      "denial_category": "duplicate",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with CO-151: Payment adjusted because payer deems information insufficient. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-151",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 25,
+      "success_rate_percent": 81.8
+    },
+    {
+      "scenario_id": "SCN-0176",
+      "denial_code": "CO-16",
+      "denial_category": "duplicate",
+      "payer_name": "Anthem",
+      "denial_description": "Anthem denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 32,
+      "success_rate_percent": 91.4
+    },
+    {
+      "scenario_id": "SCN-0177",
+      "denial_code": "CO-197",
+      "denial_category": "medical_necessity",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 45,
+      "success_rate_percent": 89.1
+    },
+    {
+      "scenario_id": "SCN-0178",
+      "denial_code": "CO-197",
+      "denial_category": "authorization",
+      "payer_name": "Anthem",
+      "denial_description": "Anthem denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 11,
+      "success_rate_percent": 94.3
+    },
+    {
+      "scenario_id": "SCN-0179",
+      "denial_code": "PR-2",
+      "denial_category": "eligibility",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with PR-2: Coinsurance amount. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-2",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 39,
+      "success_rate_percent": 86.0
+    },
+    {
+      "scenario_id": "SCN-0180",
+      "denial_code": "CO-197",
+      "denial_category": "medical_necessity",
+      "payer_name": "Medicaid",
+      "denial_description": "Medicaid denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 41,
+      "success_rate_percent": 74.5
+    },
+    {
+      "scenario_id": "SCN-0181",
+      "denial_code": "CO-204",
+      "denial_category": "billing",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 16,
+      "success_rate_percent": 73.9
+    },
+    {
+      "scenario_id": "SCN-0182",
+      "denial_code": "CO-119",
+      "denial_category": "provider",
+      "payer_name": "Workers Compensation",
+      "denial_description": "Workers Compensation denied the claim with CO-119: Benefit maximum for this time period reached. This denial falls under the provider category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-119",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 16,
+      "success_rate_percent": 75.8
+    },
+    {
+      "scenario_id": "SCN-0183",
+      "denial_code": "CO-204",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 18,
+      "success_rate_percent": 71.3
+    },
+    {
+      "scenario_id": "SCN-0184",
+      "denial_code": "PR-1",
+      "denial_category": "timely_filing",
+      "payer_name": "Kaiser Permanente",
+      "denial_description": "Kaiser Permanente denied the claim with PR-1: Deductible amount. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 13,
+      "success_rate_percent": 79.0
+    },
+    {
+      "scenario_id": "SCN-0185",
+      "denial_code": "PR-3",
+      "denial_category": "eligibility",
+      "payer_name": "Kaiser Permanente",
+      "denial_description": "Kaiser Permanente denied the claim with PR-3: Co-payment amount. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 32,
+      "success_rate_percent": 69.8
+    },
+    {
+      "scenario_id": "SCN-0186",
+      "denial_code": "CO-197",
+      "denial_category": "coding",
+      "payer_name": "Aetna",
+      "denial_description": "Aetna denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 31,
+      "success_rate_percent": 92.7
+    },
+    {
+      "scenario_id": "SCN-0187",
+      "denial_code": "CO-16",
+      "denial_category": "eligibility",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 32,
+      "success_rate_percent": 91.9
+    },
+    {
+      "scenario_id": "SCN-0188",
+      "denial_code": "CO-16",
+      "denial_category": "timely_filing",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the timely_filing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Proof of original submission",
+        "Certified mail receipt",
+        "Fax confirmation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 29,
+      "success_rate_percent": 77.3
+    },
+    {
+      "scenario_id": "SCN-0189",
+      "denial_code": "PR-1",
+      "denial_category": "duplicate",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with PR-1: Deductible amount. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-1",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 44,
+      "success_rate_percent": 89.3
+    },
+    {
+      "scenario_id": "SCN-0190",
+      "denial_code": "CO-97",
+      "denial_category": "medical_necessity",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-97: Payment adjusted because benefit maximum reached. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-97",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 45,
+      "success_rate_percent": 90.0
+    },
+    {
+      "scenario_id": "SCN-0191",
+      "denial_code": "CO-96",
+      "denial_category": "eligibility",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-96: Non-covered charge(s). This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 42,
+      "success_rate_percent": 86.6
+    },
+    {
+      "scenario_id": "SCN-0192",
+      "denial_code": "CO-197",
+      "denial_category": "medical_necessity",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 39,
+      "success_rate_percent": 96.5
+    },
+    {
+      "scenario_id": "SCN-0193",
+      "denial_code": "CO-22",
+      "denial_category": "provider",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-22: Care may be covered by another payer. This denial falls under the provider category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-22",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "high",
+      "average_resolution_days": 28,
+      "success_rate_percent": 90.6
+    },
+    {
+      "scenario_id": "SCN-0194",
+      "denial_code": "CO-204",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "Cigna",
+      "denial_description": "Cigna denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 11,
+      "success_rate_percent": 88.4
+    },
+    {
+      "scenario_id": "SCN-0195",
+      "denial_code": "CO-16",
+      "denial_category": "authorization",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 31,
+      "success_rate_percent": 69.0
+    },
+    {
+      "scenario_id": "SCN-0196",
+      "denial_code": "PR-3",
+      "denial_category": "authorization",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with PR-3: Co-payment amount. This denial falls under the authorization category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for PR-3",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Prior authorization letter",
+        "Authorization number confirmation",
+        "Clinical notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 17,
+      "success_rate_percent": 80.8
+    },
+    {
+      "scenario_id": "SCN-0197",
+      "denial_code": "CO-16",
+      "denial_category": "other",
+      "payer_name": "Aetna",
+      "denial_description": "Aetna denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 3,
+      "success_rate_percent": 68.2
+    },
+    {
+      "scenario_id": "SCN-0198",
+      "denial_code": "CO-18",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-18: Duplicate claim/service. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 34,
+      "success_rate_percent": 91.1
+    },
+    {
+      "scenario_id": "SCN-0199",
+      "denial_code": "CO-16",
+      "denial_category": "other",
+      "payer_name": "Centene",
+      "denial_description": "Centene denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the other category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 6,
+      "success_rate_percent": 88.0
+    },
+    {
+      "scenario_id": "SCN-0200",
+      "denial_code": "CO-204",
+      "denial_category": "duplicate",
+      "payer_name": "Blue Cross Blue Shield",
+      "denial_description": "Blue Cross Blue Shield denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 22,
+      "success_rate_percent": 96.3
+    },
+    {
+      "scenario_id": "SCN-0201",
+      "denial_code": "CO-96",
+      "denial_category": "duplicate",
+      "payer_name": "Medicare",
+      "denial_description": "Medicare denied the claim with CO-96: Non-covered charge(s). This denial falls under the duplicate category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-96",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 44,
+      "success_rate_percent": 73.1
+    },
+    {
+      "scenario_id": "SCN-0202",
+      "denial_code": "CO-18",
+      "denial_category": "medical_necessity",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-18: Duplicate claim/service. This denial falls under the medical_necessity category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Physician statement",
+        "Clinical documentation",
+        "Treatment plan",
+        "Lab results"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 39,
+      "success_rate_percent": 73.6
+    },
+    {
+      "scenario_id": "SCN-0203",
+      "denial_code": "CO-197",
+      "denial_category": "billing",
+      "payer_name": "Tricare",
+      "denial_description": "Tricare denied the claim with CO-197: Precertification/authorization/notification absent. This denial falls under the billing category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify authorization requirements for the service/procedure",
+        "Search for existing authorization in payer portal",
+        "If no authorization exists, request retroactive authorization",
+        "Obtain authorization number and effective dates",
+        "Resubmit claim with authorization number in appropriate field"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 20,
+      "success_rate_percent": 88.7
+    },
+    {
+      "scenario_id": "SCN-0204",
+      "denial_code": "CO-204",
+      "denial_category": "eligibility",
+      "payer_name": "Aetna",
+      "denial_description": "Aetna denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 43,
+      "success_rate_percent": 78.7
+    },
+    {
+      "scenario_id": "SCN-0205",
+      "denial_code": "CO-29",
+      "denial_category": "coding",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-29: Time limit for filing has expired. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Verify the payer's timely filing limit (typically 90-365 days)",
+        "Calculate days from date of service to original submission",
+        "Gather proof of original timely submission if applicable",
+        "Prepare timely filing appeal with supporting documentation",
+        "Submit appeal within payer's appeal filing deadline"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "low",
+      "average_resolution_days": 7,
+      "success_rate_percent": 67.4
+    },
+    {
+      "scenario_id": "SCN-0206",
+      "denial_code": "CO-204",
+      "denial_category": "coding",
+      "payer_name": "WellCare",
+      "denial_description": "WellCare denied the claim with CO-204: Service/equipment/drug not covered under current benefit plan. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-204",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 36,
+      "success_rate_percent": 98.0
+    },
+    {
+      "scenario_id": "SCN-0207",
+      "denial_code": "CO-109",
+      "denial_category": "coding",
+      "payer_name": "Commercial Payer",
+      "denial_description": "Commercial Payer denied the claim with CO-109: Claim not covered by this payer. This denial falls under the coding category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-109",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Operative report",
+        "Coding guidelines reference",
+        "NCCI edit documentation"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 35,
+      "success_rate_percent": 88.1
+    },
+    {
+      "scenario_id": "SCN-0208",
+      "denial_code": "CO-27",
+      "denial_category": "eligibility",
+      "payer_name": "Humana",
+      "denial_description": "Humana denied the claim with CO-27: Expenses incurred after coverage terminated. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review denial reason for CO-27",
+        "Gather supporting documentation",
+        "Correct the identified issue",
+        "Resubmit or appeal as appropriate"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "low",
+      "average_resolution_days": 25,
+      "success_rate_percent": 71.6
+    },
+    {
+      "scenario_id": "SCN-0209",
+      "denial_code": "CO-16",
+      "denial_category": "eligibility",
+      "payer_name": "Molina Healthcare",
+      "denial_description": "Molina Healthcare denied the claim with CO-16: Claim/service lacks information or has submission/billing error. This denial falls under the eligibility category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Review the denial remark codes for specific missing information",
+        "Identify the specific data element missing from the claim",
+        "Gather required documentation (medical records, authorization)",
+        "Correct the claim with complete information",
+        "Resubmit with all required fields populated"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 40,
+      "success_rate_percent": 77.0
+    },
+    {
+      "scenario_id": "SCN-0210",
+      "denial_code": "CO-18",
+      "denial_category": "coordination_of_benefits",
+      "payer_name": "UnitedHealthcare",
+      "denial_description": "UnitedHealthcare denied the claim with CO-18: Duplicate claim/service. This denial falls under the coordination_of_benefits category and requires specific resolution steps to achieve successful resubmission.",
+      "resolution_steps": [
+        "Search for the original claim in the payer system",
+        "Verify if the original claim was paid, denied, or pending",
+        "If original was denied, resolve the original denial first",
+        "If duplicate submission, void the duplicate claim",
+        "If resubmission needed, use appropriate claim frequency code"
+      ],
+      "required_documentation": [
+        "Claim form",
+        "Medical records",
+        "Provider notes"
+      ],
+      "severity": "medium",
+      "average_resolution_days": 44,
+      "success_rate_percent": 89.4
+    }
+  ]
+}

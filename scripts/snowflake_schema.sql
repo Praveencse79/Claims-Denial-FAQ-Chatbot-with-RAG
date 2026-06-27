@@ -1,0 +1,46 @@
+-- Snowflake DDL for Claims Denial Knowledge Base
+-- Run in Snowflake to create the denial scenarios table
+
+CREATE DATABASE IF NOT EXISTS CLAIMS_DB;
+CREATE SCHEMA IF NOT EXISTS CLAIMS_DB.DENIAL_KB;
+
+USE DATABASE CLAIMS_DB;
+USE SCHEMA DENIAL_KB;
+
+CREATE TABLE IF NOT EXISTS DENIAL_SCENARIOS (
+    SCENARIO_ID             VARCHAR(20)      NOT NULL PRIMARY KEY,
+    DENIAL_CODE             VARCHAR(20)      NOT NULL,
+    DENIAL_CATEGORY         VARCHAR(50)      NOT NULL,
+    PAYER_NAME              VARCHAR(100)     NOT NULL,
+    DENIAL_DESCRIPTION      VARCHAR(4000)    NOT NULL,
+    RESOLUTION_STEPS        VARCHAR(8000),   -- Pipe-delimited steps
+    REQUIRED_DOCUMENTATION  VARCHAR(2000),   -- Pipe-delimited docs
+    SEVERITY                VARCHAR(20)      DEFAULT 'medium',
+    AVERAGE_RESOLUTION_DAYS INTEGER          DEFAULT 14,
+    SUCCESS_RATE_PERCENT    FLOAT            DEFAULT 0.0,
+    IS_ACTIVE               BOOLEAN          DEFAULT TRUE,
+    CREATED_AT              TIMESTAMP_NTZ    DEFAULT CURRENT_TIMESTAMP(),
+    UPDATED_AT              TIMESTAMP_NTZ    DEFAULT CURRENT_TIMESTAMP()
+);
+
+CREATE INDEX IF NOT EXISTS IDX_DENIAL_CODE ON DENIAL_SCENARIOS (DENIAL_CODE);
+CREATE INDEX IF NOT EXISTS IDX_PAYER_NAME ON DENIAL_SCENARIOS (PAYER_NAME);
+CREATE INDEX IF NOT EXISTS IDX_CATEGORY ON DENIAL_SCENARIOS (DENIAL_CATEGORY);
+
+-- Sample insert
+INSERT INTO DENIAL_SCENARIOS (
+    SCENARIO_ID, DENIAL_CODE, DENIAL_CATEGORY, PAYER_NAME,
+    DENIAL_DESCRIPTION, RESOLUTION_STEPS, REQUIRED_DOCUMENTATION,
+    SEVERITY, AVERAGE_RESOLUTION_DAYS, SUCCESS_RATE_PERCENT
+) VALUES (
+    'SCN-0001',
+    'CO-16',
+    'coding',
+    'Medicare',
+    'Medicare denied the claim with CO-16: Claim/service lacks information or has submission/billing error.',
+  'Review remark codes|Identify missing data|Gather documentation|Correct claim|Resubmit',
+    'Claim form|Medical records|Provider notes',
+    'high',
+    10,
+    88.5
+);
